@@ -45,3 +45,4 @@ Check out the live demo [here](https://achal-00.github.io/star-wars-planets/).
 ## API Usage
 
 This project fetches data from the [Star Wars API (SWAPI)](https://swapi.dev). You can refer to the API documentation for more details on available endpoints.
+# Star-Wars-Planet-Catalogue
