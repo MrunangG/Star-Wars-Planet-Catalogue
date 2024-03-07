@@ -41,7 +41,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Star-Wars-Planets
+  cd Star-Wars-Planet-Catalogue
 ```
 
 Install dependencies
