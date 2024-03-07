@@ -35,7 +35,7 @@ You can check the live demo - https://starwars-planets-catalogue.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/MrunangG/Star-Wars-Planets-Catalogue.git
+  git clone https://github.com/MrunangG/Star-Wars-Planet-Catalogue.git
 ```
 
 Go to the project directory
