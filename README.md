@@ -30,7 +30,7 @@ You can check the live demo - https://starwars-planets-catalogue.netlify.app/
 
 - **CSS**
 
-## Follow these simple instructions to the project locally
+## Follow these simple instructions to run the project locally
 
 Clone the project
 
