@@ -1,5 +1,3 @@
-import AnimatedCursor from "react-animated-cursor";
-
 export default function ResidentCard(props) {
   const cardColor = [
     "#805980",
