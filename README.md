@@ -6,7 +6,8 @@ A web application that showcases planets from the Star Wars universe using the S
 
 ## Demo
 
-![Untitled design(1)](https://github.com/MrunangG/Star-Wars-Planets-Catalogue/assets/110838504/d93c9000-a05d-4f90-b635-6aad703bec82)
+![Untitled design(1)](https://github.com/MrunangG/Star-Wars-Planet-Catalogue/assets/110838504/643d67c8-2070-4119-a10b-7edce48015c4)
+
 
 You can check the live demo - https://starwars-planets-catalogue.netlify.app/
 ## Features
