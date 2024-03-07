@@ -1,48 +1,69 @@
-<h1 align='center'>Star Wars Planets Showcase</h1>
-<p align='center'>Welcome to the Star Wars Planets Showcase web application! This project utilizes the Star Wars API (SWAPI) to fetch and display information about various planets from the Star Wars universe.</p>
+
+# A catalogue of all the planets in the Star-Wars universe
+
+A web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI). This directory features information about each planet and also list its notable residents.
+
 
 ## Demo
 
-![demo](https://github.com/Achal-00/star-wars-planets/assets/106076516/c9315d75-96df-413e-ae49-8b9f03679c97)
+![Untitled design(1)](https://github.com/MrunangG/Star-Wars-Planets-Catalogue/assets/110838504/d93c9000-a05d-4f90-b635-6aad703bec82)
 
-Check out the live demo [here](https://achal-00.github.io/star-wars-planets/).
-
+You can check the live demo - https://starwars-planets-catalogue.netlify.app/
 ## Features
 
-- Browse and explore planets from the Star Wars universe.
-- View detailed information about each planet, including climate, population, terrain, and residents.
-- Intuitive and user-friendly interface.
+- Browse the entire catalogue of planets in the Star-Wars universe. 
+- Get detailed information about all planets, including their residents.
+- Star-Wars easter eggs. 
+- Responsive design.
 
 
-## Technologies Used
+## Tech Stack
 
-- Vite
-- React
-- JavaScript
-- CSS
-- HTML
+- **React** 
 
-## How to Run Locally
+- **Vite** 
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Achal-00/star-wars-planets.git
+- **Javascript**
 
-2. Navigate to the project directory:
-   ```bash
-   cd star-wars-planets
+- **HTML**
 
-3. Install dependencies:
-   ```bash
-   npm install
+- **CSS**
 
-4. Start the development server:
-   ```bash
-   npm run dev
+## Follow these simple instructions to the project locally
 
-5. Open your browser and visit http://localhost:5173
+Clone the project
 
-## API Usage
+```bash
+  git clone https://github.com/MrunangG/Star-Wars-Planets-Catalogue.git
+```
 
-This project fetches data from the [Star Wars API (SWAPI)](https://swapi.dev). You can refer to the API documentation for more details on available endpoints.
-# Star-Wars-Planet-Catalogue
+Go to the project directory
+
+```bash
+  cd Star-Wars-Planets
+```
+
+Install dependencies
+
+```bash
+  npm install or npm i
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+Open your browser and go to http://localhost:5173/
+
+OR
+
+ctrl+click on the local host link genrated in the terminal of your editor.
+## Documentation
+You can refer to the documentation of the API used(SWAPI) to check its useage.
+
+[Documentation](https://www.swapi.tech/documentation)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrunang.site/)
